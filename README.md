@@ -24,7 +24,7 @@ Read the Disclamer given at last. :)
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/zomato-scraper.git
+   git clone https://github.com/224Abhay/zomato-scraper.git
    cd zomato-scraper
 
 2. **Create and activate a virtual environment (optional but recommended):**
