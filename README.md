@@ -2,6 +2,13 @@
 
 A Python-based scraper that leverages Zomato’s web routes to fetch restaurants and menus based on your current location. The project uses IP-based geolocation to determine your area, retrieves restaurant listings, and extracts detailed menu information from the Zomato website.
 
+Find reading boring? check the data to see if this scrapper fits your needs.
+I have put an example of the following:
+1. Restaurant Data
+2. Restaurant Menu
+
+If you need anything more / help in any way feel free to put up and issue.
+
 This is an extremely fast scrapper, can scrape in realtime if needed.
 Only made this scrapper to showcase my skills and nothing more, Use responsibly.
 Read the Disclamer given at last. :)
