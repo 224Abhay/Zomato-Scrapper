@@ -7,7 +7,7 @@ I have put an example of the following:
 1. Restaurant Data
 2. Restaurant Menu
 
-If you need anything more / help in any way feel free to put up and issue.
+If you need anything more / help in any way feel free to put up an issue.
 
 This is an extremely fast scrapper, can scrape in realtime if needed.
 Only made this scrapper to showcase my skills and nothing more, Use responsibly.
