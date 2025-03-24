@@ -21,29 +21,28 @@ A Python-based scraper that leverages Zomato’s web routes to fetch restaurants
 ## Installation
 
 1. **Clone the repository:**
-
-   ```bash
    git clone https://github.com/yourusername/zomato-scraper.git
    cd zomato-scraper
 
 2. **Create and activate a virtual environment (optional but recommended):**
-
     python3 -m venv venv
     source venv/bin/activate   # For Unix/macOS
     venv\Scripts\activate      # For Windows
 
 3. **Install the required dependencies:**
-
     pip install -r requirements.txt
 
 # Configuration:
+
     User-Agent and Headers:
     The scraper uses custom headers (including a User-Agent) to mimic a browser. Adjust these headers in the zomato class if you encounter issues or need to simulate a different browser.
 
 # IP Geolocation:
+
     The get_location() function calls ipify and ipinfo.io to determine your location. If needed, you can replace these endpoints with your preferred geolocation services.
 
 # Contributing:
+
     Contributions are welcome! If you have any ideas, bug fixes, or improvements, feel free to open an issue or submit a pull request.
 
 1. **Fork the repository.**
