@@ -1,4 +1,4 @@
-import location, requests, json, re
+import location, requests, json, re, os
 
 class zomato():
     def __init__(self):
@@ -54,6 +54,7 @@ class zomato():
             print("JSON not found")
 
     def get_restaurants(self, write_json=False):
+        os.makedirs("restaurant_data", exist_ok=True)
 
         print(f"getting restaurants page {self.page_no}")
 
@@ -78,13 +79,14 @@ class zomato():
         self.shown_res_count = postbackParams['shown_res_count']
 
         if write_json:
-            with open(f"restaurants_page{self.page_no}.json", "w", encoding="utf-8") as f:
+            with open(f"restaurant_data/restaurants_page{self.page_no}.json", "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=4, ensure_ascii=False)
 
         self.page_no += 1
         return data['sections']['SECTION_SEARCH_RESULT']
 
     def get_menu(self, restaurant_data, write_json=False):
+        os.makedirs("menus", exist_ok=True)
         
         restaurant_name = restaurant_data['info']['name']
         restaurant_url = restaurant_data['order']['actionInfo']['clickUrl']
@@ -99,7 +101,7 @@ class zomato():
         data = get_response.json()
 
         if write_json:
-            with open(f"{restaurant_name}_menu.json", "w", encoding="utf-8") as f:
+            with open(f"menus/{restaurant_name}_menu.json", "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=4, ensure_ascii=False)
 
         return data
