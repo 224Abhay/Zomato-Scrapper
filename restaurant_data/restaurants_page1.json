@@ -4,6 +4,141 @@
             {
                 "type": "restaurant",
                 "info": {
+                    "resId": 3200750,
+                    "name": "Apna Punjabi Khana",
+                    "image": {
+                        "url": "https://b.zmtcdn.com/data/pictures/0/3200750/c5d041f56e0f3188b51e24a96b0f1704_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https://b.zmtcdn.com/data/pictures/0/3200750/c5d041f56e0f3188b51e24a96b0f1704_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.3",
+                        "rating_text": "4.3",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "18.9K",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "4.2",
+                                "reviewCount": "181",
+                                "reviewTextSmall": "181 Reviews",
+                                "subtext": "181 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "4.2",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.3",
+                                "reviewCount": "18.8K",
+                                "reviewTextSmall": "18.8K Reviews",
+                                "subtext": "18.8K Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.3",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "₹300 for two"
+                    },
+                    "cfo": {
+                        "text": "₹150 for one"
+                    },
+                    "locality": {
+                        "name": "Karelibaug, Vadodara",
+                        "address": "B - 23, B H Complex, Karelibaug Road, Near Utkarsh Petrol Pump, Karelibaug, Vadodara",
+                        "localityUrl": "vadodara/karelibaug-restaurants"
+                    },
+                    "timing": {
+                        "text": "Closes in 32 minutes",
+                        "color": "#e5521f"
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/north-indian/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/chinese/",
+                            "name": "Chinese"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "₹150 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "21 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "/vadodara/apna-punjabi-khana-karelibaug/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "/vadodara/apna-punjabi-khana-karelibaug/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "2.9 km",
+                "isPromoted": true,
+                "promotedText": "Promoted",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"8dcc0335-15e8-4bcd-8c4b-aeca1bb47578\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3200750\",\"element_type\":\"listing\",\"rank\":1,\"metadata\":{\"is_ad\":\"true\"}}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "50% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
                     "resId": 3200555,
                     "name": "Shree Kathiyawadi Khadki",
                     "image": {
@@ -14,11 +149,11 @@
                     },
                     "rating": {
                         "has_fake_reviews": 0,
-                        "aggregate_rating": "4.2",
-                        "rating_text": "4.2",
+                        "aggregate_rating": "4.3",
+                        "rating_text": "4.3",
                         "rating_subtitle": "Very Good",
                         "rating_color": "5BA829",
-                        "votes": "72.7K",
+                        "votes": "76K",
                         "subtext": "REVIEWS",
                         "is_new": false
                     },
@@ -44,12 +179,12 @@
                             },
                             "DELIVERY": {
                                 "rating_type": "DELIVERY",
-                                "rating": "4.2",
-                                "reviewCount": "71.9K",
-                                "reviewTextSmall": "71.9K Reviews",
-                                "subtext": "71.9K Delivery Reviews",
+                                "rating": "4.3",
+                                "reviewCount": "75.2K",
+                                "reviewTextSmall": "75.2K Reviews",
+                                "subtext": "75.2K Delivery Reviews",
                                 "color": "#E23744",
-                                "ratingV2": "4.2",
+                                "ratingV2": "4.3",
                                 "subtitle": "DELIVERY",
                                 "sideSubTitle": "Delivery Ratings",
                                 "bgColorV2": {
@@ -72,8 +207,8 @@
                         "localityUrl": "vadodara/mandvi-restaurants"
                     },
                     "timing": {
-                        "text": "",
-                        "color": ""
+                        "text": "Closes in 1 hour 2 minutes",
+                        "color": "#e5521f"
                     },
                     "cuisine": [
                         {
@@ -98,7 +233,7 @@
                     }
                 },
                 "order": {
-                    "deliveryTime": "32 min",
+                    "deliveryTime": "17 min",
                     "isServiceable": true,
                     "hasOnlineOrdering": true,
                     "actionInfo": {
@@ -114,12 +249,297 @@
                     "clickActionDeeplink": ""
                 },
                 "distance": "843 m",
+                "isPromoted": false,
+                "promotedText": "",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"8dcc0335-15e8-4bcd-8c4b-aeca1bb47578\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3200555\",\"element_type\":\"listing\",\"rank\":2}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "50% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 3200936,
+                    "name": "Foodies - Food Court",
+                    "image": {
+                        "url": "https://b.zmtcdn.com/data/pictures/chains/6/3200936/8bfd34790272827a244ce3cdf13c9928_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https://b.zmtcdn.com/data/pictures/chains/6/3200936/8bfd34790272827a244ce3cdf13c9928_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.7",
+                        "rating_text": "3.7",
+                        "rating_subtitle": "Good",
+                        "rating_color": "9ACD32",
+                        "votes": "27.6K",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "3.7",
+                                "reviewCount": "305",
+                                "reviewTextSmall": "305 Reviews",
+                                "subtext": "305 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "3.7",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "500"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "3.7",
+                                "reviewCount": "27.3K",
+                                "reviewTextSmall": "27.3K Reviews",
+                                "subtext": "27.3K Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "3.7",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "500"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "₹350 for two"
+                    },
+                    "cfo": {
+                        "text": "₹150 for one"
+                    },
+                    "locality": {
+                        "name": "Karelibaug, Vadodara",
+                        "address": "VIP Complex, VIP Road, Karelibaug, Vadodara",
+                        "localityUrl": "vadodara/karelibaug-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/north-indian/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/chinese/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/biryani/",
+                            "name": "Biryani"
+                        },
+                        {
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+                            "url": "https://www.zomato.com/vadodara/restaurants/sandwich/",
+                            "name": "Sandwich"
+                        },
+                        {
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/pizza/",
+                            "name": "Pizza"
+                        },
+                        {
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/fast-food/",
+                            "name": "Fast Food"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "₹150 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "22 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "/vadodara/foodies-food-court-karelibaug/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "/vadodara/foodies-food-court-karelibaug/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "3.1 km",
                 "isPromoted": true,
                 "promotedText": "Promoted",
                 "trackingData": [
                     {
                         "table_name": "zsearch_events_log",
-                        "payload": "{\"search_id\":\"0963d063-acd9-4aef-ad05-5d076247b8fa\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3200555\",\"element_type\":\"listing\",\"rank\":1,\"metadata\":{\"is_ad\":\"true\"}}",
+                        "payload": "{\"search_id\":\"8dcc0335-15e8-4bcd-8c4b-aeca1bb47578\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3200936\",\"element_type\":\"listing\",\"rank\":3,\"metadata\":{\"is_ad\":\"true\"}}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "50% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 19441124,
+                    "name": "Basundi - The Authentic Gujarati Thali",
+                    "image": {
+                        "url": "https://b.zmtcdn.com/data/pictures/4/19441124/5539580965fddce226a56833a981f490_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https://b.zmtcdn.com/data/pictures/4/19441124/5539580965fddce226a56833a981f490_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.8",
+                        "rating_text": "3.8",
+                        "rating_subtitle": "Good",
+                        "rating_color": "9ACD32",
+                        "votes": "1,876",
+                        "subtext": "REVIEW",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "3.5",
+                                "reviewCount": "15",
+                                "reviewTextSmall": "15 Reviews",
+                                "subtext": "15 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "3.5",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "500"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.1",
+                                "reviewCount": "1,861",
+                                "reviewTextSmall": "1,861 Reviews",
+                                "subtext": "1,861 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.1",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "₹1,000 for two"
+                    },
+                    "cfo": {
+                        "text": "₹400 for one"
+                    },
+                    "locality": {
+                        "name": "Karelibaug, Vadodara",
+                        "address": "5-A, 201/204, Narayan Elegance, Sangam Society, Karelibaug, Vadodara",
+                        "localityUrl": "vadodara/karelibaug-restaurants"
+                    },
+                    "timing": {
+                        "text": "Closes in 32 minutes",
+                        "color": "#e5521f"
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDhcIl19Il0%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/gujarati/",
+                            "name": "Gujarati"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "₹400 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "17 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "/vadodara/basundi-the-authentic-gujarati-thali-1-karelibaug/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "/vadodara/basundi-the-authentic-gujarati-thali-1-karelibaug/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "2.6 km",
+                "isPromoted": true,
+                "promotedText": "Promoted",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"8dcc0335-15e8-4bcd-8c4b-aeca1bb47578\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19441124\",\"element_type\":\"listing\",\"rank\":4,\"metadata\":{\"is_ad\":\"true\"}}",
                         "event_names": {
                             "tap": "{\"action\":\"tap\"}",
                             "impression": "{\"action\":\"impression\"}"
@@ -147,10 +567,10 @@
                     "resId": 19233010,
                     "name": "La Pino'z Pizza",
                     "image": {
-                        "url": "https://b.zmtcdn.com/data/pictures/0/19233010/ad7396f72bc89304ff57994867bee64f_o2_featured_v2.jpg"
+                        "url": "https://b.zmtcdn.com/data/pictures/0/19233010/3ad8013d695b8057b05ad4882e2e5e8c_o2_featured_v2.jpg"
                     },
                     "o2FeaturedImage": {
-                        "url": "https://b.zmtcdn.com/data/pictures/0/19233010/ad7396f72bc89304ff57994867bee64f_o2_featured_v2.jpg"
+                        "url": "https://b.zmtcdn.com/data/pictures/0/19233010/3ad8013d695b8057b05ad4882e2e5e8c_o2_featured_v2.jpg"
                     },
                     "rating": {
                         "has_fake_reviews": 0,
@@ -158,7 +578,7 @@
                         "rating_text": "3.9",
                         "rating_subtitle": "Good",
                         "rating_color": "9ACD32",
-                        "votes": "21.6K",
+                        "votes": "22.1K",
                         "subtext": "REVIEWS",
                         "is_new": false
                     },
@@ -185,9 +605,9 @@
                             "DELIVERY": {
                                 "rating_type": "DELIVERY",
                                 "rating": "4.0",
-                                "reviewCount": "21.5K",
-                                "reviewTextSmall": "21.5K Reviews",
-                                "subtext": "21.5K Delivery Reviews",
+                                "reviewCount": "21.9K",
+                                "reviewTextSmall": "21.9K Reviews",
+                                "subtext": "21.9K Delivery Reviews",
                                 "color": "#E23744",
                                 "ratingV2": "4.0",
                                 "subtitle": "DELIVERY",
@@ -243,7 +663,7 @@
                     }
                 },
                 "order": {
-                    "deliveryTime": "21 min",
+                    "deliveryTime": "19 min",
                     "isServiceable": true,
                     "hasOnlineOrdering": true,
                     "actionInfo": {
@@ -264,7 +684,7 @@
                 "trackingData": [
                     {
                         "table_name": "zsearch_events_log",
-                        "payload": "{\"search_id\":\"0963d063-acd9-4aef-ad05-5d076247b8fa\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19233010\",\"element_type\":\"listing\",\"rank\":2}",
+                        "payload": "{\"search_id\":\"8dcc0335-15e8-4bcd-8c4b-aeca1bb47578\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19233010\",\"element_type\":\"listing\",\"rank\":5}",
                         "event_names": {
                             "tap": "{\"action\":\"tap\"}",
                             "impression": "{\"action\":\"impression\"}"
@@ -276,7 +696,7 @@
                 "checkBulkOffers": true,
                 "bulkOffers": [
                     {
-                        "text": "₹200 OFF",
+                        "text": "₹150 OFF",
                         "color": {
                             "tint": "500",
                             "type": "blue"
@@ -289,302 +709,13 @@
             {
                 "type": "restaurant",
                 "info": {
-                    "resId": 20323671,
-                    "name": "Pizza Hut",
+                    "resId": 19062131,
+                    "name": "Jay Jalaram Sev Usal",
                     "image": {
-                        "url": "https://b.zmtcdn.com/data/pictures/chains/4/3200024/6b243950f82ddee71af749ffc0e76b7b_o2_featured_v2.jpg"
+                        "url": "https://b.zmtcdn.com/data/pictures/1/19062131/55d60b8bdf97777ce31c1593f644e092_o2_featured_v2.jpg"
                     },
                     "o2FeaturedImage": {
-                        "url": "https://b.zmtcdn.com/data/pictures/chains/4/3200024/6b243950f82ddee71af749ffc0e76b7b_o2_featured_v2.jpg"
-                    },
-                    "rating": {
-                        "has_fake_reviews": 0,
-                        "aggregate_rating": "3.8",
-                        "rating_text": "3.8",
-                        "rating_subtitle": "Good",
-                        "rating_color": "9ACD32",
-                        "votes": "3,035",
-                        "subtext": "REVIEWS",
-                        "is_new": false
-                    },
-                    "ratingNew": {
-                        "newlyOpenedObj": null,
-                        "suspiciousReviewObj": null,
-                        "ratings": {
-                            "DINING": {
-                                "rating_type": "DINING",
-                                "rating": "4.0",
-                                "reviewCount": "84",
-                                "reviewTextSmall": "84 Reviews",
-                                "subtext": "84 Dining Reviews",
-                                "color": "#1C1C1C",
-                                "ratingV2": "4.0",
-                                "subtitle": "DINING",
-                                "sideSubTitle": "Dining Ratings",
-                                "bgColorV2": {
-                                    "type": "green",
-                                    "tint": "700"
-                                },
-                                "newOnDining": false
-                            },
-                            "DELIVERY": {
-                                "rating_type": "DELIVERY",
-                                "rating": "3.6",
-                                "reviewCount": "2,951",
-                                "reviewTextSmall": "2,951 Reviews",
-                                "subtext": "2,951 Delivery Reviews",
-                                "color": "#E23744",
-                                "ratingV2": "3.6",
-                                "subtitle": "DELIVERY",
-                                "sideSubTitle": "Delivery Ratings",
-                                "bgColorV2": {
-                                    "type": "green",
-                                    "tint": "500"
-                                },
-                                "newOnDelivery": false
-                            }
-                        }
-                    },
-                    "cft": {
-                        "text": "₹1,000 for two"
-                    },
-                    "cfo": {
-                        "text": "₹400 for one"
-                    },
-                    "locality": {
-                        "name": "Mandvi, Vadodara",
-                        "address": "Shop 24, Ground Floor, Crossway Mall, Shanadevi Marg, Akota Dandia Bazar Road, Mandvi, Vadodara",
-                        "localityUrl": "vadodara/mandvi-restaurants"
-                    },
-                    "timing": {
-                        "text": "",
-                        "color": ""
-                    },
-                    "cuisine": [
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/pizza/",
-                            "name": "Pizza"
-                        },
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/fast-food/",
-                            "name": "Fast Food"
-                        },
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-                            "url": "https://www.zomato.com/vadodara/restaurants/desserts/",
-                            "name": "Desserts"
-                        },
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-                            "url": "https://www.zomato.com/vadodara/restaurants/beverages/",
-                            "name": "Beverages"
-                        }
-                    ],
-                    "should_ban_ugc": false,
-                    "costText": {
-                        "text": "₹400 for one"
-                    }
-                },
-                "order": {
-                    "deliveryTime": "36 min",
-                    "isServiceable": true,
-                    "hasOnlineOrdering": true,
-                    "actionInfo": {
-                        "text": "Order Now",
-                        "clickUrl": "/vadodara/pizza-hut-mandvi/order"
-                    }
-                },
-                "gold": [],
-                "takeaway": [],
-                "cardAction": {
-                    "text": "",
-                    "clickUrl": "/vadodara/pizza-hut-mandvi/order",
-                    "clickActionDeeplink": ""
-                },
-                "distance": "1.4 km",
-                "isPromoted": true,
-                "promotedText": "Promoted",
-                "trackingData": [
-                    {
-                        "table_name": "zsearch_events_log",
-                        "payload": "{\"search_id\":\"0963d063-acd9-4aef-ad05-5d076247b8fa\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20323671\",\"element_type\":\"listing\",\"rank\":3,\"metadata\":{\"is_ad\":\"true\"}}",
-                        "event_names": {
-                            "tap": "{\"action\":\"tap\"}",
-                            "impression": "{\"action\":\"impression\"}"
-                        }
-                    }
-                ],
-                "allCTA": [],
-                "promoOffer": "",
-                "checkBulkOffers": true,
-                "bulkOffers": [
-                    {
-                        "text": "20% OFF",
-                        "color": {
-                            "tint": "500",
-                            "type": "blue"
-                        }
-                    }
-                ],
-                "isDisabled": false,
-                "bottomContainers": []
-            },
-            {
-                "type": "restaurant",
-                "info": {
-                    "resId": 3201495,
-                    "name": "Bendys Kitchen",
-                    "image": {
-                        "url": "https://b.zmtcdn.com/data/pictures/5/3201495/c12d487578f036edeb8180b736775b44_o2_featured_v2.jpg"
-                    },
-                    "o2FeaturedImage": {
-                        "url": "https://b.zmtcdn.com/data/pictures/5/3201495/c12d487578f036edeb8180b736775b44_o2_featured_v2.jpg"
-                    },
-                    "rating": {
-                        "has_fake_reviews": 0,
-                        "aggregate_rating": "4.4",
-                        "rating_text": "4.4",
-                        "rating_subtitle": "Very Good",
-                        "rating_color": "5BA829",
-                        "votes": "13.9K",
-                        "subtext": "REVIEWS",
-                        "is_new": false
-                    },
-                    "ratingNew": {
-                        "newlyOpenedObj": null,
-                        "suspiciousReviewObj": null,
-                        "ratings": {
-                            "DINING": {
-                                "rating_type": "DINING",
-                                "rating": "",
-                                "reviewCount": "0",
-                                "reviewTextSmall": "0 Reviews",
-                                "subtext": "Does not offer Dining",
-                                "color": "",
-                                "ratingV2": "-",
-                                "subtitle": "DINING",
-                                "sideSubTitle": "Dining Ratings",
-                                "bgColorV2": {
-                                    "type": "green",
-                                    "tint": "100"
-                                },
-                                "textColorV2": {
-                                    "type": "green",
-                                    "tint": "500"
-                                },
-                                "newOnDining": false
-                            },
-                            "DELIVERY": {
-                                "rating_type": "DELIVERY",
-                                "rating": "4.4",
-                                "reviewCount": "13.9K",
-                                "reviewTextSmall": "13.9K Reviews",
-                                "subtext": "13.9K Delivery Reviews",
-                                "color": "#E23744",
-                                "ratingV2": "4.4",
-                                "subtitle": "DELIVERY",
-                                "sideSubTitle": "Delivery Ratings",
-                                "bgColorV2": {
-                                    "type": "green",
-                                    "tint": "700"
-                                },
-                                "newOnDelivery": false
-                            }
-                        }
-                    },
-                    "cft": {
-                        "text": "₹800 for two"
-                    },
-                    "cfo": {
-                        "text": "₹350 for one"
-                    },
-                    "locality": {
-                        "name": "Gotri, Vadodara",
-                        "address": "A-7, Vishakha Park, Rajesh Tower Road, Opposite Nene Clinic, Gotri, Vadodara",
-                        "localityUrl": "vadodara/gotri-restaurants"
-                    },
-                    "timing": {
-                        "text": "",
-                        "color": ""
-                    },
-                    "cuisine": [
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/biryani/",
-                            "name": "Biryani"
-                        },
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/north-indian/",
-                            "name": "North Indian"
-                        },
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/mughlai/",
-                            "name": "Mughlai"
-                        }
-                    ],
-                    "should_ban_ugc": false,
-                    "costText": {
-                        "text": "₹350 for one"
-                    }
-                },
-                "order": {
-                    "deliveryTime": "41 min",
-                    "isServiceable": true,
-                    "hasOnlineOrdering": true,
-                    "actionInfo": {
-                        "text": "Order Now",
-                        "clickUrl": "/vadodara/bendys-kitchen-gotri/order"
-                    }
-                },
-                "gold": [],
-                "takeaway": [],
-                "cardAction": {
-                    "text": "",
-                    "clickUrl": "/vadodara/bendys-kitchen-gotri/order",
-                    "clickActionDeeplink": ""
-                },
-                "distance": "6.5 km",
-                "isPromoted": true,
-                "promotedText": "Promoted",
-                "trackingData": [
-                    {
-                        "table_name": "zsearch_events_log",
-                        "payload": "{\"search_id\":\"0963d063-acd9-4aef-ad05-5d076247b8fa\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3201495\",\"element_type\":\"listing\",\"rank\":4,\"metadata\":{\"is_ad\":\"true\"}}",
-                        "event_names": {
-                            "tap": "{\"action\":\"tap\"}",
-                            "impression": "{\"action\":\"impression\"}"
-                        }
-                    }
-                ],
-                "allCTA": [],
-                "promoOffer": "",
-                "checkBulkOffers": true,
-                "bulkOffers": [
-                    {
-                        "text": "50% OFF",
-                        "color": {
-                            "tint": "500",
-                            "type": "blue"
-                        }
-                    }
-                ],
-                "isDisabled": false,
-                "bottomContainers": []
-            },
-            {
-                "type": "restaurant",
-                "info": {
-                    "resId": 3200349,
-                    "name": "McDonald's",
-                    "image": {
-                        "url": "https://b.zmtcdn.com/data/pictures/9/3200349/374e8e26b3a8bbf6ac5ba4ba33ae04dd_o2_featured_v2.jpg"
-                    },
-                    "o2FeaturedImage": {
-                        "url": "https://b.zmtcdn.com/data/pictures/9/3200349/374e8e26b3a8bbf6ac5ba4ba33ae04dd_o2_featured_v2.jpg"
+                        "url": "https://b.zmtcdn.com/data/pictures/1/19062131/55d60b8bdf97777ce31c1593f644e092_o2_featured_v2.jpg"
                     },
                     "rating": {
                         "has_fake_reviews": 0,
@@ -592,7 +723,7 @@
                         "rating_text": "4.1",
                         "rating_subtitle": "Very Good",
                         "rating_color": "5BA829",
-                        "votes": "18.1K",
+                        "votes": "9,240",
                         "subtext": "REVIEWS",
                         "is_new": false
                     },
@@ -603,141 +734,9 @@
                             "DINING": {
                                 "rating_type": "DINING",
                                 "rating": "3.9",
-                                "reviewCount": "313",
-                                "reviewTextSmall": "313 Reviews",
-                                "subtext": "313 Dining Reviews",
-                                "color": "#1C1C1C",
-                                "ratingV2": "3.9",
-                                "subtitle": "DINING",
-                                "sideSubTitle": "Dining Ratings",
-                                "bgColorV2": {
-                                    "type": "green",
-                                    "tint": "600"
-                                },
-                                "newOnDining": false
-                            },
-                            "DELIVERY": {
-                                "rating_type": "DELIVERY",
-                                "rating": "4.3",
-                                "reviewCount": "17.8K",
-                                "reviewTextSmall": "17.8K Reviews",
-                                "subtext": "17.8K Delivery Reviews",
-                                "color": "#E23744",
-                                "ratingV2": "4.3",
-                                "subtitle": "DELIVERY",
-                                "sideSubTitle": "Delivery Ratings",
-                                "bgColorV2": {
-                                    "type": "green",
-                                    "tint": "700"
-                                },
-                                "newOnDelivery": false
-                            }
-                        }
-                    },
-                    "cft": {
-                        "text": "₹500 for two"
-                    },
-                    "cfo": {
-                        "text": "₹200 for one"
-                    },
-                    "locality": {
-                        "name": "Seven Seas Mall, Fatehgunj, Vadodara",
-                        "address": "3rd Floor, Seven Seas Mall, Fatehgunj, Vadodara",
-                        "localityUrl": "vadodara/restaurants/in/seven-seas-mall-fatehgunj"
-                    },
-                    "timing": {
-                        "text": "",
-                        "color": ""
-                    },
-                    "cuisine": [
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
-                            "url": "https://www.zomato.com/vadodara/restaurants/burger/",
-                            "name": "Burger"
-                        },
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/fast-food/",
-                            "name": "Fast Food"
-                        },
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/cafes/",
-                            "name": "Cafe"
-                        }
-                    ],
-                    "should_ban_ugc": false,
-                    "costText": {
-                        "text": "₹200 for one"
-                    }
-                },
-                "order": {
-                    "deliveryTime": "29 min",
-                    "isServiceable": true,
-                    "hasOnlineOrdering": true,
-                    "actionInfo": {
-                        "text": "Order Now",
-                        "clickUrl": "/vadodara/mcdonalds-fatehgunj/order"
-                    }
-                },
-                "gold": [],
-                "takeaway": [],
-                "cardAction": {
-                    "text": "",
-                    "clickUrl": "/vadodara/mcdonalds-fatehgunj/order",
-                    "clickActionDeeplink": ""
-                },
-                "distance": "3.4 km",
-                "isPromoted": false,
-                "promotedText": "",
-                "trackingData": [
-                    {
-                        "table_name": "zsearch_events_log",
-                        "payload": "{\"search_id\":\"0963d063-acd9-4aef-ad05-5d076247b8fa\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3200349\",\"element_type\":\"listing\",\"rank\":5}",
-                        "event_names": {
-                            "tap": "{\"action\":\"tap\"}",
-                            "impression": "{\"action\":\"impression\"}"
-                        }
-                    }
-                ],
-                "allCTA": [],
-                "promoOffer": "",
-                "checkBulkOffers": true,
-                "bulkOffers": [],
-                "isDisabled": false,
-                "bottomContainers": []
-            },
-            {
-                "type": "restaurant",
-                "info": {
-                    "resId": 20947781,
-                    "name": "Old School Eatery",
-                    "image": {
-                        "url": "https://b.zmtcdn.com/data/pictures/1/20947781/7e060375a0fde39f1f3485ad65919d8d_o2_featured_v2.jpg"
-                    },
-                    "o2FeaturedImage": {
-                        "url": "https://b.zmtcdn.com/data/pictures/1/20947781/7e060375a0fde39f1f3485ad65919d8d_o2_featured_v2.jpg"
-                    },
-                    "rating": {
-                        "has_fake_reviews": 0,
-                        "aggregate_rating": "4.1",
-                        "rating_text": "4.1",
-                        "rating_subtitle": "Very Good",
-                        "rating_color": "5BA829",
-                        "votes": "1,311",
-                        "subtext": "REVIEW",
-                        "is_new": false
-                    },
-                    "ratingNew": {
-                        "newlyOpenedObj": null,
-                        "suspiciousReviewObj": null,
-                        "ratings": {
-                            "DINING": {
-                                "rating_type": "DINING",
-                                "rating": "3.9",
-                                "reviewCount": "6",
-                                "reviewTextSmall": "6 Reviews",
-                                "subtext": "6 Dining Reviews",
+                                "reviewCount": "106",
+                                "reviewTextSmall": "106 Reviews",
+                                "subtext": "106 Dining Reviews",
                                 "color": "#1C1C1C",
                                 "ratingV2": "3.9",
                                 "subtitle": "DINING",
@@ -751,9 +750,9 @@
                             "DELIVERY": {
                                 "rating_type": "DELIVERY",
                                 "rating": "4.2",
-                                "reviewCount": "1,305",
-                                "reviewTextSmall": "1,305 Reviews",
-                                "subtext": "1,305 Delivery Reviews",
+                                "reviewCount": "9,134",
+                                "reviewTextSmall": "9,134 Reviews",
+                                "subtext": "9,134 Delivery Reviews",
                                 "color": "#E23744",
                                 "ratingV2": "4.2",
                                 "subtitle": "DELIVERY",
@@ -767,15 +766,15 @@
                         }
                     },
                     "cft": {
-                        "text": "₹1,200 for two"
+                        "text": "₹150 for two"
                     },
                     "cfo": {
-                        "text": "₹500 for one"
+                        "text": "₹100 for one"
                     },
                     "locality": {
-                        "name": "Manjalpur, Vadodara",
-                        "address": "Shop 4-9, Fortune Platinum, Manjalpur, Vadodara",
-                        "localityUrl": "vadodara/manjalpur-restaurants"
+                        "name": "Kendranagar, Vadodara",
+                        "address": "Parivar Char Rasta, Waghodia Road, Kendranagar, Vadodara",
+                        "localityUrl": "vadodara/kendranagar-restaurants"
                     },
                     "timing": {
                         "text": "",
@@ -783,34 +782,9 @@
                     },
                     "cuisine": [
                         {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/north-indian/",
-                            "name": "North Indian"
-                        },
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/biryani/",
-                            "name": "Biryani"
-                        },
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/pizza/",
-                            "name": "Pizza"
-                        },
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
-                            "url": "https://www.zomato.com/vadodara/restaurants/sandwich/",
-                            "name": "Sandwich"
-                        },
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/chinese/",
-                            "name": "Chinese"
-                        },
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-                            "url": "https://www.zomato.com/vadodara/restaurants/desserts/",
-                            "name": "Desserts"
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/street-food/",
+                            "name": "Street Food"
                         },
                         {
                             "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
@@ -820,32 +794,32 @@
                     ],
                     "should_ban_ugc": false,
                     "costText": {
-                        "text": "₹500 for one"
+                        "text": "₹100 for one"
                     }
                 },
                 "order": {
-                    "deliveryTime": "27 min",
+                    "deliveryTime": "18 min",
                     "isServiceable": true,
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "/vadodara/old-school-eatery-manjalpur/order"
+                        "clickUrl": "/vadodara/jay-jalaram-sev-usal-kendranagar/order"
                     }
                 },
                 "gold": [],
                 "takeaway": [],
                 "cardAction": {
                     "text": "",
-                    "clickUrl": "/vadodara/old-school-eatery-manjalpur/order",
+                    "clickUrl": "/vadodara/jay-jalaram-sev-usal-kendranagar/order",
                     "clickActionDeeplink": ""
                 },
-                "distance": "3.4 km",
+                "distance": "3.2 km",
                 "isPromoted": true,
                 "promotedText": "Promoted",
                 "trackingData": [
                     {
                         "table_name": "zsearch_events_log",
-                        "payload": "{\"search_id\":\"0963d063-acd9-4aef-ad05-5d076247b8fa\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20947781\",\"element_type\":\"listing\",\"rank\":6,\"metadata\":{\"is_ad\":\"true\"}}",
+                        "payload": "{\"search_id\":\"8dcc0335-15e8-4bcd-8c4b-aeca1bb47578\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19062131\",\"element_type\":\"listing\",\"rank\":6,\"metadata\":{\"is_ad\":\"true\"}}",
                         "event_names": {
                             "tap": "{\"action\":\"tap\"}",
                             "impression": "{\"action\":\"impression\"}"
@@ -857,7 +831,7 @@
                 "checkBulkOffers": true,
                 "bulkOffers": [
                     {
-                        "text": "50% OFF",
+                        "text": "₹125 OFF",
                         "color": {
                             "tint": "500",
                             "type": "blue"
@@ -880,11 +854,11 @@
                     },
                     "rating": {
                         "has_fake_reviews": 0,
-                        "aggregate_rating": "3.2",
-                        "rating_text": "3.2",
+                        "aggregate_rating": "3.1",
+                        "rating_text": "3.1",
                         "rating_subtitle": "Average",
                         "rating_color": "CDD614",
-                        "votes": "6,551",
+                        "votes": "7,301",
                         "subtext": "REVIEWS",
                         "is_new": false
                     },
@@ -910,17 +884,17 @@
                             },
                             "DELIVERY": {
                                 "rating_type": "DELIVERY",
-                                "rating": "4.0",
-                                "reviewCount": "6,543",
-                                "reviewTextSmall": "6,543 Reviews",
-                                "subtext": "6,543 Delivery Reviews",
+                                "rating": "3.9",
+                                "reviewCount": "7,293",
+                                "reviewTextSmall": "7,293 Reviews",
+                                "subtext": "7,293 Delivery Reviews",
                                 "color": "#E23744",
-                                "ratingV2": "4.0",
+                                "ratingV2": "3.9",
                                 "subtitle": "DELIVERY",
                                 "sideSubTitle": "Delivery Ratings",
                                 "bgColorV2": {
                                     "type": "green",
-                                    "tint": "700"
+                                    "tint": "600"
                                 },
                                 "newOnDelivery": false
                             }
@@ -969,7 +943,7 @@
                     }
                 },
                 "order": {
-                    "deliveryTime": "28 min",
+                    "deliveryTime": "21 min",
                     "isServiceable": true,
                     "hasOnlineOrdering": true,
                     "actionInfo": {
@@ -990,129 +964,7 @@
                 "trackingData": [
                     {
                         "table_name": "zsearch_events_log",
-                        "payload": "{\"search_id\":\"0963d063-acd9-4aef-ad05-5d076247b8fa\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20344176\",\"element_type\":\"listing\",\"rank\":7}",
-                        "event_names": {
-                            "tap": "{\"action\":\"tap\"}",
-                            "impression": "{\"action\":\"impression\"}"
-                        }
-                    }
-                ],
-                "allCTA": [],
-                "promoOffer": "",
-                "checkBulkOffers": true,
-                "bulkOffers": [],
-                "isDisabled": false,
-                "bottomContainers": []
-            },
-            {
-                "type": "restaurant",
-                "info": {
-                    "resId": 3201993,
-                    "name": "City South Corner",
-                    "image": {
-                        "url": "https://b.zmtcdn.com/data/pictures/3/3201993/d26c4714c60b908b48cdd5a6e0121db7_o2_featured_v2.jpg"
-                    },
-                    "o2FeaturedImage": {
-                        "url": "https://b.zmtcdn.com/data/pictures/3/3201993/d26c4714c60b908b48cdd5a6e0121db7_o2_featured_v2.jpg"
-                    },
-                    "rating": {
-                        "has_fake_reviews": 0,
-                        "aggregate_rating": "4.3",
-                        "rating_text": "4.3",
-                        "rating_subtitle": "Very Good",
-                        "rating_color": "5BA829",
-                        "votes": "6,604",
-                        "subtext": "REVIEWS",
-                        "is_new": false
-                    },
-                    "ratingNew": {
-                        "newlyOpenedObj": null,
-                        "suspiciousReviewObj": null,
-                        "ratings": {
-                            "DINING": {
-                                "rating_type": "DINING",
-                                "rating": "4.2",
-                                "reviewCount": "119",
-                                "reviewTextSmall": "119 Reviews",
-                                "subtext": "119 Dining Reviews",
-                                "color": "#1C1C1C",
-                                "ratingV2": "4.2",
-                                "subtitle": "DINING",
-                                "sideSubTitle": "Dining Ratings",
-                                "bgColorV2": {
-                                    "type": "green",
-                                    "tint": "700"
-                                },
-                                "newOnDining": false
-                            },
-                            "DELIVERY": {
-                                "rating_type": "DELIVERY",
-                                "rating": "4.3",
-                                "reviewCount": "6,485",
-                                "reviewTextSmall": "6,485 Reviews",
-                                "subtext": "6,485 Delivery Reviews",
-                                "color": "#E23744",
-                                "ratingV2": "4.3",
-                                "subtitle": "DELIVERY",
-                                "sideSubTitle": "Delivery Ratings",
-                                "bgColorV2": {
-                                    "type": "green",
-                                    "tint": "700"
-                                },
-                                "newOnDelivery": false
-                            }
-                        }
-                    },
-                    "cft": {
-                        "text": "₹350 for two"
-                    },
-                    "cfo": {
-                        "text": "₹150 for one"
-                    },
-                    "locality": {
-                        "name": "Karelibaug, Vadodara",
-                        "address": "1st Floor, NBCC Plaza, Opposite Utkarsh Petrol Pump, Karelibaug, Vadodara",
-                        "localityUrl": "vadodara/karelibaug-restaurants"
-                    },
-                    "timing": {
-                        "text": "",
-                        "color": ""
-                    },
-                    "cuisine": [
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/south-indian/",
-                            "name": "South Indian"
-                        }
-                    ],
-                    "should_ban_ugc": false,
-                    "costText": {
-                        "text": "₹150 for one"
-                    }
-                },
-                "order": {
-                    "deliveryTime": "27 min",
-                    "isServiceable": true,
-                    "hasOnlineOrdering": true,
-                    "actionInfo": {
-                        "text": "Order Now",
-                        "clickUrl": "/vadodara/city-south-corner-karelibaug/order"
-                    }
-                },
-                "gold": [],
-                "takeaway": [],
-                "cardAction": {
-                    "text": "",
-                    "clickUrl": "/vadodara/city-south-corner-karelibaug/order",
-                    "clickActionDeeplink": ""
-                },
-                "distance": "3 km",
-                "isPromoted": true,
-                "promotedText": "Promoted",
-                "trackingData": [
-                    {
-                        "table_name": "zsearch_events_log",
-                        "payload": "{\"search_id\":\"0963d063-acd9-4aef-ad05-5d076247b8fa\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3201993\",\"element_type\":\"listing\",\"rank\":8,\"metadata\":{\"is_ad\":\"true\"}}",
+                        "payload": "{\"search_id\":\"8dcc0335-15e8-4bcd-8c4b-aeca1bb47578\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20344176\",\"element_type\":\"listing\",\"rank\":7}",
                         "event_names": {
                             "tap": "{\"action\":\"tap\"}",
                             "impression": "{\"action\":\"impression\"}"
@@ -1137,21 +989,21 @@
             {
                 "type": "restaurant",
                 "info": {
-                    "resId": 3200230,
-                    "name": "Da Pizza Planet",
+                    "resId": 3201495,
+                    "name": "Bendys Kitchen",
                     "image": {
-                        "url": "https://b.zmtcdn.com/data/pictures/chains/0/3200230/8fb2afc25e5a8b59948e3734ab4f5ad7_o2_featured_v2.jpg"
+                        "url": "https://b.zmtcdn.com/data/pictures/5/3201495/c12d487578f036edeb8180b736775b44_o2_featured_v2.jpg"
                     },
                     "o2FeaturedImage": {
-                        "url": "https://b.zmtcdn.com/data/pictures/chains/0/3200230/8fb2afc25e5a8b59948e3734ab4f5ad7_o2_featured_v2.jpg"
+                        "url": "https://b.zmtcdn.com/data/pictures/5/3201495/c12d487578f036edeb8180b736775b44_o2_featured_v2.jpg"
                     },
                     "rating": {
                         "has_fake_reviews": 0,
-                        "aggregate_rating": "3.9",
-                        "rating_text": "3.9",
-                        "rating_subtitle": "Good",
-                        "rating_color": "9ACD32",
-                        "votes": "13.1K",
+                        "aggregate_rating": "4.4",
+                        "rating_text": "4.4",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "15.3K",
                         "subtext": "REVIEWS",
                         "is_new": false
                     },
@@ -1161,15 +1013,19 @@
                         "ratings": {
                             "DINING": {
                                 "rating_type": "DINING",
-                                "rating": "3.7",
-                                "reviewCount": "172",
-                                "reviewTextSmall": "172 Reviews",
-                                "subtext": "172 Dining Reviews",
-                                "color": "#1C1C1C",
-                                "ratingV2": "3.7",
+                                "rating": "",
+                                "reviewCount": "0",
+                                "reviewTextSmall": "0 Reviews",
+                                "subtext": "Does not offer Dining",
+                                "color": "",
+                                "ratingV2": "-",
                                 "subtitle": "DINING",
                                 "sideSubTitle": "Dining Ratings",
                                 "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "100"
+                                },
+                                "textColorV2": {
                                     "type": "green",
                                     "tint": "500"
                                 },
@@ -1177,12 +1033,12 @@
                             },
                             "DELIVERY": {
                                 "rating_type": "DELIVERY",
-                                "rating": "4.0",
-                                "reviewCount": "12.9K",
-                                "reviewTextSmall": "12.9K Reviews",
-                                "subtext": "12.9K Delivery Reviews",
+                                "rating": "4.4",
+                                "reviewCount": "15.3K",
+                                "reviewTextSmall": "15.3K Reviews",
+                                "subtext": "15.3K Delivery Reviews",
                                 "color": "#E23744",
-                                "ratingV2": "4.0",
+                                "ratingV2": "4.4",
                                 "subtitle": "DELIVERY",
                                 "sideSubTitle": "Delivery Ratings",
                                 "bgColorV2": {
@@ -1194,65 +1050,65 @@
                         }
                     },
                     "cft": {
-                        "text": "₹1,000 for two"
+                        "text": "₹800 for two"
                     },
                     "cfo": {
-                        "text": "₹400 for one"
+                        "text": "₹350 for one"
                     },
                     "locality": {
-                        "name": "Diwalipura, Vadodara",
-                        "address": "Ground Floor,  Ojus Avenue, Vasna - Bhayli Road, Diwalipura, Vadodara",
-                        "localityUrl": "vadodara/diwalipura-restaurants"
+                        "name": "Gotri, Vadodara",
+                        "address": "A-7, Vishakha Park, Rajesh Tower Road, Opposite Nene Clinic, Gotri, Vadodara",
+                        "localityUrl": "vadodara/gotri-restaurants"
                     },
                     "timing": {
-                        "text": "",
-                        "color": ""
+                        "text": "Closes in 32 minutes",
+                        "color": "#e5521f"
                     },
                     "cuisine": [
                         {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/pizza/",
-                            "name": "Pizza"
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/biryani/",
+                            "name": "Biryani"
                         },
                         {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/fast-food/",
-                            "name": "Fast Food"
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/north-indian/",
+                            "name": "North Indian"
                         },
                         {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-                            "url": "https://www.zomato.com/vadodara/restaurants/beverages/",
-                            "name": "Beverages"
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/mughlai/",
+                            "name": "Mughlai"
                         }
                     ],
                     "should_ban_ugc": false,
                     "costText": {
-                        "text": "₹400 for one"
+                        "text": "₹350 for one"
                     }
                 },
                 "order": {
-                    "deliveryTime": "37 min",
+                    "deliveryTime": "35 min",
                     "isServiceable": true,
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "/vadodara/da-pizza-planet-diwalipura/order"
+                        "clickUrl": "/vadodara/bendys-kitchen-gotri/order"
                     }
                 },
                 "gold": [],
                 "takeaway": [],
                 "cardAction": {
                     "text": "",
-                    "clickUrl": "/vadodara/da-pizza-planet-diwalipura/order",
+                    "clickUrl": "/vadodara/bendys-kitchen-gotri/order",
                     "clickActionDeeplink": ""
                 },
-                "distance": "6.7 km",
+                "distance": "6.5 km",
                 "isPromoted": true,
                 "promotedText": "Promoted",
                 "trackingData": [
                     {
                         "table_name": "zsearch_events_log",
-                        "payload": "{\"search_id\":\"0963d063-acd9-4aef-ad05-5d076247b8fa\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3200230\",\"element_type\":\"listing\",\"rank\":9,\"metadata\":{\"is_ad\":\"true\"}}",
+                        "payload": "{\"search_id\":\"8dcc0335-15e8-4bcd-8c4b-aeca1bb47578\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3201495\",\"element_type\":\"listing\",\"rank\":8,\"metadata\":{\"is_ad\":\"true\"}}",
                         "event_names": {
                             "tap": "{\"action\":\"tap\"}",
                             "impression": "{\"action\":\"impression\"}"
@@ -1264,7 +1120,7 @@
                 "checkBulkOffers": true,
                 "bulkOffers": [
                     {
-                        "text": "₹200 OFF",
+                        "text": "50% OFF",
                         "color": {
                             "tint": "500",
                             "type": "blue"
@@ -1277,21 +1133,21 @@
             {
                 "type": "restaurant",
                 "info": {
-                    "resId": 19473594,
-                    "name": "Baroda Sandwich",
+                    "resId": 20400576,
+                    "name": "Sai Krupa Kitchen",
                     "image": {
-                        "url": "https://b.zmtcdn.com/data/pictures/4/19473594/c7631ab6764a3bbbf138af63c28765a4_o2_featured_v2.jpg"
+                        "url": "https://b.zmtcdn.com/data/pictures/6/20400576/73d7f6ee024b472b33ca6ff397fe7d77_o2_featured_v2.jpg"
                     },
                     "o2FeaturedImage": {
-                        "url": "https://b.zmtcdn.com/data/pictures/4/19473594/c7631ab6764a3bbbf138af63c28765a4_o2_featured_v2.jpg"
+                        "url": "https://b.zmtcdn.com/data/pictures/6/20400576/73d7f6ee024b472b33ca6ff397fe7d77_o2_featured_v2.jpg"
                     },
                     "rating": {
                         "has_fake_reviews": 0,
-                        "aggregate_rating": "3.3",
-                        "rating_text": "3.3",
-                        "rating_subtitle": "Average",
-                        "rating_color": "CDD614",
-                        "votes": "6,930",
+                        "aggregate_rating": "3.7",
+                        "rating_text": "3.7",
+                        "rating_subtitle": "Good",
+                        "rating_color": "9ACD32",
+                        "votes": "4,432",
                         "subtext": "REVIEWS",
                         "is_new": false
                     },
@@ -1301,12 +1157,12 @@
                         "ratings": {
                             "DINING": {
                                 "rating_type": "DINING",
-                                "rating": "2.9",
-                                "reviewCount": "4",
-                                "reviewTextSmall": "4 Reviews",
-                                "subtext": "4 Dining Reviews",
+                                "rating": "3.4",
+                                "reviewCount": "5",
+                                "reviewTextSmall": "5 Reviews",
+                                "subtext": "5 Dining Reviews",
                                 "color": "#1C1C1C",
-                                "ratingV2": "2.9",
+                                "ratingV2": "3.4",
                                 "subtitle": "DINING",
                                 "sideSubTitle": "Dining Ratings",
                                 "bgColorV2": {
@@ -1317,140 +1173,10 @@
                             },
                             "DELIVERY": {
                                 "rating_type": "DELIVERY",
-                                "rating": "3.7",
-                                "reviewCount": "6,926",
-                                "reviewTextSmall": "6,926 Reviews",
-                                "subtext": "6,926 Delivery Reviews",
-                                "color": "#E23744",
-                                "ratingV2": "3.7",
-                                "subtitle": "DELIVERY",
-                                "sideSubTitle": "Delivery Ratings",
-                                "bgColorV2": {
-                                    "type": "green",
-                                    "tint": "500"
-                                },
-                                "newOnDelivery": false
-                            }
-                        }
-                    },
-                    "cft": {
-                        "text": "₹200 for two"
-                    },
-                    "cfo": {
-                        "text": "₹100 for one"
-                    },
-                    "locality": {
-                        "name": "Manjalpur, Vadodara",
-                        "address": "Baroda Dairy Circle, Manjalpur, Vadodara",
-                        "localityUrl": "vadodara/manjalpur-restaurants"
-                    },
-                    "timing": {
-                        "text": "",
-                        "color": ""
-                    },
-                    "cuisine": [
-                        {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
-                            "url": "https://www.zomato.com/vadodara/restaurants/sandwich/",
-                            "name": "Sandwich"
-                        }
-                    ],
-                    "should_ban_ugc": false,
-                    "costText": {
-                        "text": "₹100 for one"
-                    }
-                },
-                "order": {
-                    "deliveryTime": "27 min",
-                    "isServiceable": true,
-                    "hasOnlineOrdering": true,
-                    "actionInfo": {
-                        "text": "Order Now",
-                        "clickUrl": "/vadodara/baroda-sandwich-1-manjalpur/order"
-                    }
-                },
-                "gold": [],
-                "takeaway": [],
-                "cardAction": {
-                    "text": "",
-                    "clickUrl": "/vadodara/baroda-sandwich-1-manjalpur/order",
-                    "clickActionDeeplink": ""
-                },
-                "distance": "3 km",
-                "isPromoted": true,
-                "promotedText": "Promoted",
-                "trackingData": [
-                    {
-                        "table_name": "zsearch_events_log",
-                        "payload": "{\"search_id\":\"0963d063-acd9-4aef-ad05-5d076247b8fa\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19473594\",\"element_type\":\"listing\",\"rank\":10,\"metadata\":{\"is_ad\":\"true\"}}",
-                        "event_names": {
-                            "tap": "{\"action\":\"tap\"}",
-                            "impression": "{\"action\":\"impression\"}"
-                        }
-                    }
-                ],
-                "allCTA": [],
-                "promoOffer": "",
-                "checkBulkOffers": true,
-                "bulkOffers": [
-                    {
-                        "text": "₹150 OFF",
-                        "color": {
-                            "tint": "500",
-                            "type": "blue"
-                        }
-                    }
-                ],
-                "isDisabled": false,
-                "bottomContainers": []
-            },
-            {
-                "type": "restaurant",
-                "info": {
-                    "resId": 3200955,
-                    "name": "KFC",
-                    "image": {
-                        "url": "https://b.zmtcdn.com/data/pictures/chains/9/3200029/eeceb6b37200a6f510d9b1406f5ad220_o2_featured_v2.jpg"
-                    },
-                    "o2FeaturedImage": {
-                        "url": "https://b.zmtcdn.com/data/pictures/chains/9/3200029/eeceb6b37200a6f510d9b1406f5ad220_o2_featured_v2.jpg"
-                    },
-                    "rating": {
-                        "has_fake_reviews": 0,
-                        "aggregate_rating": "4.0",
-                        "rating_text": "4.0",
-                        "rating_subtitle": "Very Good",
-                        "rating_color": "5BA829",
-                        "votes": "20K",
-                        "subtext": "REVIEWS",
-                        "is_new": false
-                    },
-                    "ratingNew": {
-                        "newlyOpenedObj": null,
-                        "suspiciousReviewObj": null,
-                        "ratings": {
-                            "DINING": {
-                                "rating_type": "DINING",
-                                "rating": "4.1",
-                                "reviewCount": "450",
-                                "reviewTextSmall": "450 Reviews",
-                                "subtext": "450 Dining Reviews",
-                                "color": "#1C1C1C",
-                                "ratingV2": "4.1",
-                                "subtitle": "DINING",
-                                "sideSubTitle": "Dining Ratings",
-                                "bgColorV2": {
-                                    "type": "green",
-                                    "tint": "700"
-                                },
-                                "newOnDining": false
-                            },
-                            "DELIVERY": {
-                                "rating_type": "DELIVERY",
                                 "rating": "3.9",
-                                "reviewCount": "19.5K",
-                                "reviewTextSmall": "19.5K Reviews",
-                                "subtext": "19.5K Delivery Reviews",
+                                "reviewCount": "4,427",
+                                "reviewTextSmall": "4,427 Reviews",
+                                "subtext": "4,427 Delivery Reviews",
                                 "color": "#E23744",
                                 "ratingV2": "3.9",
                                 "subtitle": "DELIVERY",
@@ -1464,15 +1190,295 @@
                         }
                     },
                     "cft": {
-                        "text": "₹450 for two"
+                        "text": "₹400 for two"
                     },
                     "cfo": {
                         "text": "₹200 for one"
                     },
                     "locality": {
-                        "name": "Manjalpur, Vadodara",
-                        "address": "Shop 10, 3rd Floor, Eva Mall, Near Patidar Crossing, Manjalpur, Vadodara",
-                        "localityUrl": "vadodara/manjalpur-restaurants"
+                        "name": "Karelibaug, Vadodara",
+                        "address": "Shop 11, Trilok Complex, Harni Warasiya Ring Road, Karelibaug, Vadodara",
+                        "localityUrl": "vadodara/karelibaug-restaurants"
+                    },
+                    "timing": {
+                        "text": "Closes in 32 minutes",
+                        "color": "#e5521f"
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/north-indian/",
+                            "name": "North Indian"
+                        },
+                        {
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/chinese/",
+                            "name": "Chinese"
+                        },
+                        {
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTI4XCJdfSJd",
+                            "url": "https://www.zomato.com/vadodara/restaurants/sichuan/",
+                            "name": "Sichuan"
+                        },
+                        {
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/biryani/",
+                            "name": "Biryani"
+                        },
+                        {
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/fast-food/",
+                            "name": "Fast Food"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "₹200 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "19 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "/vadodara/sai-krupa-kitchen-karelibaug/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "/vadodara/sai-krupa-kitchen-karelibaug/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "2.5 km",
+                "isPromoted": true,
+                "promotedText": "Promoted",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"8dcc0335-15e8-4bcd-8c4b-aeca1bb47578\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20400576\",\"element_type\":\"listing\",\"rank\":9,\"metadata\":{\"is_ad\":\"true\"}}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "50% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 19323492,
+                    "name": "Jay Mahakali Sev Usal",
+                    "image": {
+                        "url": "https://b.zmtcdn.com/data/pictures/2/19323492/656ffafb718b04861ed6af162e2ecf13_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https://b.zmtcdn.com/data/pictures/2/19323492/656ffafb718b04861ed6af162e2ecf13_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "3.8",
+                        "rating_text": "3.8",
+                        "rating_subtitle": "Good",
+                        "rating_color": "9ACD32",
+                        "votes": "2,349",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "3.3",
+                                "reviewCount": "12",
+                                "reviewTextSmall": "12 Reviews",
+                                "subtext": "12 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "3.3",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "yellow",
+                                    "tint": "400"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.2",
+                                "reviewCount": "2,337",
+                                "reviewTextSmall": "2,337 Reviews",
+                                "subtext": "2,337 Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.2",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "₹150 for two"
+                    },
+                    "cfo": {
+                        "text": "₹100 for one"
+                    },
+                    "locality": {
+                        "name": "Karelibaug, Vadodara",
+                        "address": "C 23, B H Complex, Amit Nagar, Near Utkarsh Petrol Pump, Karelibaug, Vadodara",
+                        "localityUrl": "vadodara/karelibaug-restaurants"
+                    },
+                    "timing": {
+                        "text": "",
+                        "color": ""
+                    },
+                    "cuisine": [
+                        {
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyXCJdfSJd",
+                            "url": "https://www.zomato.com/vadodara/restaurants/maharashtrian/",
+                            "name": "Maharashtrian"
+                        }
+                    ],
+                    "should_ban_ugc": false,
+                    "costText": {
+                        "text": "₹100 for one"
+                    }
+                },
+                "order": {
+                    "deliveryTime": "18 min",
+                    "isServiceable": true,
+                    "hasOnlineOrdering": true,
+                    "actionInfo": {
+                        "text": "Order Now",
+                        "clickUrl": "/vadodara/jay-mahakali-sev-usal-1-karelibaug/order"
+                    }
+                },
+                "gold": [],
+                "takeaway": [],
+                "cardAction": {
+                    "text": "",
+                    "clickUrl": "/vadodara/jay-mahakali-sev-usal-1-karelibaug/order",
+                    "clickActionDeeplink": ""
+                },
+                "distance": "3 km",
+                "isPromoted": true,
+                "promotedText": "Promoted",
+                "trackingData": [
+                    {
+                        "table_name": "zsearch_events_log",
+                        "payload": "{\"search_id\":\"8dcc0335-15e8-4bcd-8c4b-aeca1bb47578\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19323492\",\"element_type\":\"listing\",\"rank\":10,\"metadata\":{\"is_ad\":\"true\"}}",
+                        "event_names": {
+                            "tap": "{\"action\":\"tap\"}",
+                            "impression": "{\"action\":\"impression\"}"
+                        }
+                    }
+                ],
+                "allCTA": [],
+                "promoOffer": "",
+                "checkBulkOffers": true,
+                "bulkOffers": [
+                    {
+                        "text": "50% OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
+                "isDisabled": false,
+                "bottomContainers": []
+            },
+            {
+                "type": "restaurant",
+                "info": {
+                    "resId": 3200349,
+                    "name": "McDonald's",
+                    "image": {
+                        "url": "https://b.zmtcdn.com/data/pictures/9/3200349/374e8e26b3a8bbf6ac5ba4ba33ae04dd_o2_featured_v2.jpg"
+                    },
+                    "o2FeaturedImage": {
+                        "url": "https://b.zmtcdn.com/data/pictures/9/3200349/374e8e26b3a8bbf6ac5ba4ba33ae04dd_o2_featured_v2.jpg"
+                    },
+                    "rating": {
+                        "has_fake_reviews": 0,
+                        "aggregate_rating": "4.1",
+                        "rating_text": "4.1",
+                        "rating_subtitle": "Very Good",
+                        "rating_color": "5BA829",
+                        "votes": "18.6K",
+                        "subtext": "REVIEWS",
+                        "is_new": false
+                    },
+                    "ratingNew": {
+                        "newlyOpenedObj": null,
+                        "suspiciousReviewObj": null,
+                        "ratings": {
+                            "DINING": {
+                                "rating_type": "DINING",
+                                "rating": "3.9",
+                                "reviewCount": "313",
+                                "reviewTextSmall": "313 Reviews",
+                                "subtext": "313 Dining Reviews",
+                                "color": "#1C1C1C",
+                                "ratingV2": "3.9",
+                                "subtitle": "DINING",
+                                "sideSubTitle": "Dining Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "600"
+                                },
+                                "newOnDining": false
+                            },
+                            "DELIVERY": {
+                                "rating_type": "DELIVERY",
+                                "rating": "4.3",
+                                "reviewCount": "18.3K",
+                                "reviewTextSmall": "18.3K Reviews",
+                                "subtext": "18.3K Delivery Reviews",
+                                "color": "#E23744",
+                                "ratingV2": "4.3",
+                                "subtitle": "DELIVERY",
+                                "sideSubTitle": "Delivery Ratings",
+                                "bgColorV2": {
+                                    "type": "green",
+                                    "tint": "700"
+                                },
+                                "newOnDelivery": false
+                            }
+                        }
+                    },
+                    "cft": {
+                        "text": "₹500 for two"
+                    },
+                    "cfo": {
+                        "text": "₹200 for one"
+                    },
+                    "locality": {
+                        "name": "Fatehgunj, Vadodara",
+                        "address": "3rd Floor, Seven Seas Mall, Fatehgunj, Vadodara",
+                        "localityUrl": "vadodara/fatehgunj-restaurants"
                     },
                     "timing": {
                         "text": "",
@@ -1490,9 +1496,9 @@
                             "name": "Fast Food"
                         },
                         {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyM1wiXX0iXQ%3D%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/rolls/",
-                            "name": "Rolls"
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/cafes/",
+                            "name": "Cafe"
                         }
                     ],
                     "should_ban_ugc": false,
@@ -1501,28 +1507,28 @@
                     }
                 },
                 "order": {
-                    "deliveryTime": "27 min",
+                    "deliveryTime": "23 min",
                     "isServiceable": true,
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "/vadodara/kfc-manjalpur/order"
+                        "clickUrl": "/vadodara/mcdonalds-fatehgunj/order"
                     }
                 },
                 "gold": [],
                 "takeaway": [],
                 "cardAction": {
                     "text": "",
-                    "clickUrl": "/vadodara/kfc-manjalpur/order",
+                    "clickUrl": "/vadodara/mcdonalds-fatehgunj/order",
                     "clickActionDeeplink": ""
                 },
-                "distance": "3.5 km",
+                "distance": "3.4 km",
                 "isPromoted": false,
                 "promotedText": "",
                 "trackingData": [
                     {
                         "table_name": "zsearch_events_log",
-                        "payload": "{\"search_id\":\"0963d063-acd9-4aef-ad05-5d076247b8fa\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3200955\",\"element_type\":\"listing\",\"rank\":11}",
+                        "payload": "{\"search_id\":\"8dcc0335-15e8-4bcd-8c4b-aeca1bb47578\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3200349\",\"element_type\":\"listing\",\"rank\":11}",
                         "event_names": {
                             "tap": "{\"action\":\"tap\"}",
                             "impression": "{\"action\":\"impression\"}"
@@ -1532,28 +1538,37 @@
                 "allCTA": [],
                 "promoOffer": "",
                 "checkBulkOffers": true,
-                "bulkOffers": [],
+                "bulkOffers": [
+                    {
+                        "text": "₹100 OFF",
+                        "color": {
+                            "tint": "500",
+                            "type": "blue"
+                        }
+                    }
+                ],
                 "isDisabled": false,
                 "bottomContainers": []
             },
             {
                 "type": "restaurant",
                 "info": {
-                    "resId": 18785018,
-                    "name": "Gayatri Bhavan",
+                    "resId": 19628909,
+                    "name": "Tasty Vadapav",
                     "image": {
-                        "url": "https://b.zmtcdn.com/data/pictures/8/18785018/0783490726d3f8ffb53e6ddea68ecc87_o2_featured_v2.jpg"
+                        "url": "https://b.zmtcdn.com/data/pictures/chains/4/3200244/8247aa70fcb8e03a6dc2433953f7a523_featured_v2.jpg",
+                        "urlWithParams": "https://b.zmtcdn.com/data/pictures/chains/4/3200244/8247aa70fcb8e03a6dc2433953f7a523_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
                     },
                     "o2FeaturedImage": {
-                        "url": "https://b.zmtcdn.com/data/pictures/8/18785018/0783490726d3f8ffb53e6ddea68ecc87_o2_featured_v2.jpg"
+                        "url": false
                     },
                     "rating": {
                         "has_fake_reviews": 0,
-                        "aggregate_rating": "3.7",
-                        "rating_text": "3.7",
+                        "aggregate_rating": "3.6",
+                        "rating_text": "3.6",
                         "rating_subtitle": "Good",
                         "rating_color": "9ACD32",
-                        "votes": "39.1K",
+                        "votes": "6,335",
                         "subtext": "REVIEWS",
                         "is_new": false
                     },
@@ -1563,48 +1578,48 @@
                         "ratings": {
                             "DINING": {
                                 "rating_type": "DINING",
-                                "rating": "3.9",
-                                "reviewCount": "254",
-                                "reviewTextSmall": "254 Reviews",
-                                "subtext": "254 Dining Reviews",
+                                "rating": "2.9",
+                                "reviewCount": "10",
+                                "reviewTextSmall": "10 Reviews",
+                                "subtext": "10 Dining Reviews",
                                 "color": "#1C1C1C",
-                                "ratingV2": "3.9",
+                                "ratingV2": "2.9",
                                 "subtitle": "DINING",
                                 "sideSubTitle": "Dining Ratings",
                                 "bgColorV2": {
-                                    "type": "green",
-                                    "tint": "600"
+                                    "type": "yellow",
+                                    "tint": "400"
                                 },
                                 "newOnDining": false
                             },
                             "DELIVERY": {
                                 "rating_type": "DELIVERY",
-                                "rating": "3.4",
-                                "reviewCount": "38.9K",
-                                "reviewTextSmall": "38.9K Reviews",
-                                "subtext": "38.9K Delivery Reviews",
+                                "rating": "4.3",
+                                "reviewCount": "6,325",
+                                "reviewTextSmall": "6,325 Reviews",
+                                "subtext": "6,325 Delivery Reviews",
                                 "color": "#E23744",
-                                "ratingV2": "3.4",
+                                "ratingV2": "4.3",
                                 "subtitle": "DELIVERY",
                                 "sideSubTitle": "Delivery Ratings",
                                 "bgColorV2": {
-                                    "type": "yellow",
-                                    "tint": "400"
+                                    "type": "green",
+                                    "tint": "700"
                                 },
                                 "newOnDelivery": false
                             }
                         }
                     },
                     "cft": {
-                        "text": "₹300 for two"
+                        "text": "₹100 for two"
                     },
                     "cfo": {
-                        "text": "₹150 for one"
+                        "text": "₹40 for one"
                     },
                     "locality": {
-                        "name": "Sayajigunj, Vadodara",
-                        "address": "Near Sanjiv Hospital, Opp Railway Station, Sayajigunj, Vadodara",
-                        "localityUrl": "vadodara/sayajigunj-restaurants"
+                        "name": "Kendranagar, Vadodara",
+                        "address": "Shop 3, Patliputra Complex, Near Uma Char Rasta, Waghodia Road, Kendranagar, Vadodara",
+                        "localityUrl": "vadodara/kendranagar-restaurants"
                     },
                     "timing": {
                         "text": "",
@@ -1612,39 +1627,39 @@
                     },
                     "cuisine": [
                         {
-                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-                            "url": "https://www.zomato.com/vadodara/restaurants/north-indian/",
-                            "name": "North Indian"
+                            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+                            "url": "https://www.zomato.com/vadodara/restaurants/street-food/",
+                            "name": "Street Food"
                         }
                     ],
                     "should_ban_ugc": false,
                     "costText": {
-                        "text": "₹150 for one"
+                        "text": "₹40 for one"
                     }
                 },
                 "order": {
-                    "deliveryTime": "24 min",
+                    "deliveryTime": "17 min",
                     "isServiceable": true,
                     "hasOnlineOrdering": true,
                     "actionInfo": {
                         "text": "Order Now",
-                        "clickUrl": "/vadodara/gayatri-bhavan-3-sayajigunj/order"
+                        "clickUrl": "/vadodara/tasty-vadapav-kendranagar/order"
                     }
                 },
                 "gold": [],
                 "takeaway": [],
                 "cardAction": {
                     "text": "",
-                    "clickUrl": "/vadodara/gayatri-bhavan-3-sayajigunj/order",
+                    "clickUrl": "/vadodara/tasty-vadapav-kendranagar/order",
                     "clickActionDeeplink": ""
                 },
-                "distance": "3.1 km",
+                "distance": "2.3 km",
                 "isPromoted": false,
                 "promotedText": "",
                 "trackingData": [
                     {
                         "table_name": "zsearch_events_log",
-                        "payload": "{\"search_id\":\"0963d063-acd9-4aef-ad05-5d076247b8fa\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18785018\",\"element_type\":\"listing\",\"rank\":12}",
+                        "payload": "{\"search_id\":\"8dcc0335-15e8-4bcd-8c4b-aeca1bb47578\",\"location_type\":\"delivery_cell\",\"location_id\":\"4134240182666788864\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19628909\",\"element_type\":\"listing\",\"rank\":12}",
                         "event_names": {
                             "tap": "{\"action\":\"tap\"}",
                             "impression": "{\"action\":\"impression\"}"
@@ -1669,9 +1684,9 @@
         ],
         "SECTION_SEARCH_META_INFO": {
             "searchMetaData": {
-                "previousSearchParams": "{\"PreviousSearchId\":\"0963d063-acd9-4aef-ad05-5d076247b8fa\",\"PreviousSearchFilter\":[\"{\\\"category_context\\\":\\\"delivery_home\\\"}\",\"\"]}",
-                "postbackParams": "{\"processed_chain_ids\":[3200555,3202160,3200024,3201495,3200023,3201965,3200981,3201993,3200230,19473594,3200029,3201880],\"shown_res_count\":12,\"search_id\":\"0963d063-acd9-4aef-ad05-5d076247b8fa\"}",
-                "totalResults": 1819,
+                "previousSearchParams": "{\"PreviousSearchId\":\"8dcc0335-15e8-4bcd-8c4b-aeca1bb47578\",\"PreviousSearchFilter\":[\"{\\\"category_context\\\":\\\"delivery_home\\\"}\",\"\"]}",
+                "postbackParams": "{\"processed_chain_ids\":[3200750,3200555,3200936,20525357,3202160,19062131,3200981,3201495,20400576,19323492,3200023,3200244],\"shown_res_count\":12,\"search_id\":\"8dcc0335-15e8-4bcd-8c4b-aeca1bb47578\"}",
+                "totalResults": 1662,
                 "hasMore": true,
                 "getInactive": false
             }
